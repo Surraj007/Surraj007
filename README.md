@@ -8,14 +8,15 @@ I am passionate about developing solutions that make a positive impact and conti
 - ✨ For more information check out my Portfolio Website https://surraj007.github.io/My-Portfolio-Website/
 ### Programming Languages
  - ![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=black) *C*
- - ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) *Java*
+ - ![Java](https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white) *Java*
  - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) *HTML*
- - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) *CSS*
+ - ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) *CSS*
  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) *JavaScript*
  - ![PHP](https://img.shields.io/badge/PHP-007396?style=flat&logo=php&logoColor=white) *PHP* 
 
 ### Technologies
  - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) *MySQL*
+ - ![XAMPP](https://img.shields.io/badge/XAMPP-E34F26?style=flat&logo=xampp&logoColor=white) *XAMPP*
  - ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) *TailwindCSS*
 
 ### Tools
