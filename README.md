@@ -7,7 +7,7 @@ I am passionate about developing solutions that make a positive impact and conti
 
 - ✨ For more information check out my Portfolio Website https://surraj007.github.io/My-Portfolio-Website/
 - ### Programming Languages
-- ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) *C*
+- ![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=black) *C*
 - ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) *Java*
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) *HTML*
 - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) *CSS*
