@@ -32,7 +32,7 @@ I am passionate about developing solutions that make a positive impact and conti
 - [![Facebook](https://img.shields.io/badge/Facebook-Suraj_Yadav-1877F2?style=social&logo=facebook)](https://www.facebook.com/surajraj.yadav.397) 
 - [![Twitter](https://img.shields.io/badge/Twitter-SY_GamingPlanet-1DA1F2?style=social&logo=x)](https://x.com/SY_GamingPlanet)
 - [![Instagram](https://img.shields.io/badge/Instagram-surrajjj007-E4405F?style=social&logo=instagram)](https://www.instagram.com/surrajjj007/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Suraj_Kumar-0A66C2?style=social&logo=linkedin)](www.linkedin.com/in/surajyadav65)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Suraj_Kumar-0A66C2?style=social&logo=linkedin)](www.linkedin.com/in/surajyadav65/)
 - [![GitHub](https://img.shields.io/badge/GitHub-Surraj007-181717?style=social&logo=github)](https://github.com/Surraj007)
 
 
