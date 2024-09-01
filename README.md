@@ -6,6 +6,23 @@ My projects include creating a sustainable development website using HTML, CSS, 
 I am passionate about developing solutions that make a positive impact and continually seek opportunities to learn and grow in the field of web development.
 
 - ✨ For more information check out my Portfolio Website https://surraj007.github.io/My-Portfolio-Website/
+- ### Programming Languages
+- ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) *C*
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) *Java*
+- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) *HTML*
+- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) *CSS*
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) *JavaScript*
+- ![PHP](https://img.shields.io/badge/PHP-007396?style=flat&logo=php&logoColor=white) *PHP* 
+
+### Technologies
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) *MySQL*
+- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) *TailwindCSS*
+
+### Tools
+- ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) *Visual Studio Code (VSCode)*
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) *Git*
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) *GitHub*
+- ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=flat&logo=googlechrome&logoColor=white) *Chrome DevTools*
 <!---
 Surraj007/Surraj007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
