@@ -9,7 +9,7 @@ I am passionate about developing solutions that make a positive impact and conti
 ### Programming Languages
  - ![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=black) 
  - ![Java](https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white) 
- - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+ - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
  - ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) 
  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
  - ![PHP](https://img.shields.io/badge/PHP-007396?style=flat&logo=php&logoColor=white) 
